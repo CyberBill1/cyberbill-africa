@@ -64,7 +64,7 @@ function lightbox() {
 function carousel() {
 
     $('.carousel').carousel({
-        interval: 1000 * 10
+        interval: 1000 * 5
     });
 }
 
