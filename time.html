@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real-Time Digital Clock</title>
+  <style>
+    #clock {
+      font-size: 48px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="clock"></div>
+
+  <script>
+    // Function to update the clock display
+    function updateClock() {
+      var now = new Date();
+      var hours = now.getHours();
+      var minutes = now.getMinutes();
+      var seconds = now.getSeconds();
+
+      // Format the time values to add leading zeros
+      hours = hours < 10 ? "0" + hours : hours;
+      minutes = minutes < 10 ? "0" + minutes : minutes;
+      seconds = seconds < 10 ? "0" + seconds : seconds;
+
+      // Build the time string
+      var time = hours + ":" + minutes + ":" + seconds;
+
+      // Update the clock element with the current time
+      document.getElementById("clock").textContent = time;
+    }
+
+    // Call the updateClock function every second
+    setInterval(updateClock, 1000);
+  </script>
+</body>
+</html>
