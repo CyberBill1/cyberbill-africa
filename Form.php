@@ -8,13 +8,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $to = "engrifeanyi@gmail.com";  // Replace with your own email address
   $subject = "Form Submission";
 $message = "Name: " . $name . "\n"; 
-$message .= "Email: " . $last . "\n";
 $message .= "Email: " . $email . "\n";
-$message .= "Email: " . $subject . "\n";
-$message .= "Email: " . $message . "\n";
-$message .= "Email: " . $email . "\n";
-$message .= "Email: " . $email . "\n";
-
+$message .= "Last Name: " . $last . "\n";
+$message .= "Subject: " . $subject . "\n";
+$message .= "Message: " . $message . "\n";
   // Send the email
   $headers = "From: " . $email . "\r\n" .
     "Reply-To: " . $email . "\r\n" .
