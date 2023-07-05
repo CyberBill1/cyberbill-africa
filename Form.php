@@ -5,10 +5,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $email = $_POST["email"];
 
   // Email settings
-  $to = "your_email@example.com";  // Replace with your own email address
+  $to = "engrifeanyi@gmail.com";  // Replace with your own email address
   $subject = "Form Submission";
-  $message = "Name: " . $name . "\n";
-  $message .= "Email: " . $email . "\n";
+$message = "Name: " . $name . "\n"; 
+$message .= "Email: " . $last . "\n";
+$message .= "Email: " . $email . "\n";
+$message .= "Email: " . $subject . "\n";
+$message .= "Email: " . $message . "\n";
+$message .= "Email: " . $email . "\n";
+$message .= "Email: " . $email . "\n";
 
   // Send the email
   $headers = "From: " . $email . "\r\n" .
