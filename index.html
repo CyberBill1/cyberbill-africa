@@ -65,6 +65,22 @@
   margin: 0 auto; /* Center the image */
 }
 
+.video-container {
+   position: relative;
+   padding-bottom: 56.25%; /* 16:9 aspect ratio (9 / 16 * 100%) */
+   height: 0;
+   overflow: hidden;
+   margin-left: 8px;
+}
+
+.video-container iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 98%;
+   height: 100%;
+}
+
       </style>
     
   </head>
@@ -417,6 +433,15 @@ Step into a world where technology meets local expertise, and where your digital
         <div class="row">
           <div class="col-md-12 text-center">
             <h1 style="color: blue;">Media</h1>
+
+
+    <!-- Page Video Begin -->
+ <h2 class="section-title bg-danger text-start text-center pe-2" href="" style="color: $info;">Watch Live!</h2>                 
+<div class="video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/p1uG49yAmBI?si=XohroxVUANCodG3Q" frameborder="0" allowfullscreen></iframe>
+<img src="elziona.jpg" alt="Thumbnail Image">
+</div>
+<!-- Page Video End -->
 
 
             <p><video width="320" height="240" controls>
