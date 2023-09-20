@@ -136,6 +136,15 @@ body {
 header {
   z-index: 1000;
 }
+
+.back-to-top {
+    position: fixed;
+    display: none;
+    right: 30px;
+    bottom: 20px;
+    z-index: 99;
+}
+
 section {
   position: relative;
   padding-top: 90px;
