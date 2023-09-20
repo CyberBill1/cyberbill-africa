@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marquee Text Flow into Button</title>
+    <style>
+        .marquee-container {
+            display: flex;
+            overflow: hidden;
+            width: 100%;
+        }
+
+        .marquee-text {
+            flex: 1;
+            white-space: nowrap;
+            animation: marquee 10s linear infinite;
+        }
+
+        .button {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+
+        @keyframes marquee {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee-container">
+        <div class="marquee-text">
+            Breaking News: This is a sample headline that flows into a button.
+        </div>
+        <button class="button">Read More</button>
+    </div>
+</body>
+</html>
