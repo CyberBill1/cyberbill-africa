@@ -7,13 +7,13 @@
     <style>
         .marquee-container {
             display: flex;
-            overflow: hidden;
+            align-items: center;
             width: 100%;
         }
 
         .marquee-text {
-            flex: 1;
             white-space: nowrap;
+            overflow: hidden;
             animation: marquee 10s linear infinite;
         }
 
@@ -23,7 +23,7 @@
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
-            margin-left: 10px;
+            margin-right: 10px;
             cursor: pointer;
         }
 
@@ -39,10 +39,10 @@
 </head>
 <body>
     <div class="marquee-container">
-        <div class="marquee-text">
-            Breaking News: This is a sample headline that flows into a button.
-        </div>
         <button class="button">Read More</button>
+        <div class="marquee-text">
+            Breaking News: This is a sample headline that flows from inside the button.
+        </div>
     </div>
 </body>
 </html>
