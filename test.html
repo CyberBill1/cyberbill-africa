@@ -5,59 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marquee Text Flow into Button</title>
     <style>
-        .marquee-container {
-            display: flex;
-            align-items: center;
-            width: 100%;
-        }
+     .marque-button {
+  overflow: hidden;
+  width: 200px;
+  height: 50px;
+  background-color: #ccc;
+}
 
-        .marquee-text {
-            white-space: nowrap;
-            overflow: hidden;
-            animation: marquee 10s linear infinite;
-        }
+.marque-text {
+  width: 100%;
+  white-space: nowrap;
+  animation: marquee 10s linear infinite;
+}
 
-        .button-container {
-            background-color: #007bff;
-            display: inline-block;
-            padding: 10px 20px;
-            border-radius: 5px;
-            margin-right: 10px;
-            overflow: hidden;
-        }
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
 
-        .button {
-            color: #fff;
-            animation: marquee-button 10s linear infinite;
-        }
 
-        @keyframes marquee {
-            0% {
-                transform: translateX(100%);
-            }
-            100% {
-                transform: translateX(-100%);
-            }
-        }
-
-        @keyframes marquee-button {
-            0% {
-                transform: translateX(0);
-            }
-            100% {
-                transform: translateX(-100%);
-            }
-        }
     </style>
 </head>
 <body>
-    <div class="marquee-container">
-        <div class="button-container">
-            <button class="button">Read More</button>
-        </div>
-        <div class="marquee-text">
-            Breaking News: This is a sample headline that flows into the button.
-        </div>
-    </div>
+    
+
+    <div class="marque-button">
+  <span class="marque-text">This is my scrolling text.</span>
+  <button>Click me!</button>
+</div>
+
 </body>
 </html>
