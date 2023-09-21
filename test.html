@@ -37,15 +37,54 @@
 
         @keyframes marquee {
             0% {
-                transform: translateX(0%);
+                transform: translateX(100%);
             }
             100% {
                 transform: translateX(-100%);
             }
         }
+
+        /* Style the logo and company name */
+.logo {
+  display: flex; /* Align logo and text horizontally */
+  align-items: center; /* Vertically center them */
+}
+
+.logo img {
+  width: 40px; /* Adjust the width of the logo as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px; /* Add spacing between the logo and text */
+}
+
+.logo span {
+  font-weight: bold; /* Make the company name bold */
+  font-size: 20px; /* Adjust the font size as needed */
+  color: #333; /* Text color */
+}
+
+/* Style the navigation bar (other styles) */
+.navbar {
+  background-color: #fff; /* Background color for the navigation bar */
+  /* Add more styles as needed */
+}
+
     </style>
 </head>
 <body>
+
+   <nav class="navbar">
+     <div class="logo">
+    <img src="Mylogo.png" alt="Company Logo">
+    <span>CyberBill</span>
+  </div>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+    
     <div class="marquee-container">
         <button class="button">Read More</button>
         <div class="marquee-text-container">
