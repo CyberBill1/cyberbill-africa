@@ -70,7 +70,27 @@ main {
       0% { transform: translateY(50px); }
       100% { transform: translateY(0); }
     }
-     
+
+
+      .typewriter-title {
+      font-size: 4em;
+      overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap;
+      margin: 0 auto;
+      letter-spacing: .15em;
+      animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange; }
+    }
   </style>
 
 
@@ -94,8 +114,6 @@ main {
 <header>
   <nav>
 <h3 class="animated-title" style="float: left; color: #0498b4;">Code Create</h3>
-   <h1 class="animated-title">Code and Create</h1>
-
 
 <h2 style="float: right;"><a href="index.html" style="color: blue; text-decoration: blink;">Home</a></h2>
 </nav>
@@ -108,7 +126,7 @@ main {
           <h4><a style="color: teal;"></a></h4>
         <p class="lead">
 <!-- <div class="image"><a href="#"><img src="img/class.jpg" alt="" class="img-responsive"></a></div> -->
-              <h3><a href="#" style="color: teal;">Welcome to Code & Create Summer Camp</a></h3>
+               <h2 class="typewriter-title; style="color: teal;">Welcome to Code & Create Summer Camp</h2>
           <h1 style="opacity: 0; animation: fadeIn 1s ease-in-out forwards;">Code and Create</h1>
 
             </div>
@@ -125,8 +143,7 @@ main {
       </div>
 </section>
 
-    <h1 style="opacity: 0; animation: fadeIn 1s ease-in-out forwards;">Code and Create</h1>
-
+ 
   <section>
       <div class="section--padding-bottom-small">
       <div class="grid-container">
