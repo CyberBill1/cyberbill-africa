@@ -71,11 +71,17 @@ main {
       100% { transform: translateY(0); }
     }
 
-  @media (max-width: 600px) {
+ @media (max-width: 600px) {
       .animated-title {
         font-size: 2em;
       }
-   
+    }
+
+    @media (min-width: 601px) {
+      .animated-title {
+        font-size: 4em;
+      }
+     
       .typewriter-title {
       font-size: 3em;
       overflow: hidden;
