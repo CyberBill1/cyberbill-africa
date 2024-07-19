@@ -71,7 +71,11 @@ main {
       100% { transform: translateY(0); }
     }
 
-
+  @media (max-width: 600px) {
+      .animated-title {
+        font-size: 2em;
+      }
+   
       .typewriter-title {
       font-size: 3em;
       overflow: hidden;
@@ -91,7 +95,11 @@ main {
       from, to { border-color: transparent }
       50% { border-color: orange; }
     }
-
+  @media (max-width: 600px) {
+      .typewriter-title {
+        font-size: 2em;
+      }
+   
       .neon-title {
       font-size: 4em;
       color: #fff;
@@ -107,6 +115,10 @@ main {
       20%, 24%, 55% {
         text-shadow: none;
         opacity: .7;
+      }
+   @media (max-width: 600px) {
+      .neon-title {
+        font-size: 2em;
       }
     }
   </style>
