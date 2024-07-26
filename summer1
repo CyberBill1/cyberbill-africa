@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>El-zion Global Network Television</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+        <meta property="og:title" content="El-zion Global Network Television">
+        <meta property="og:description"content=" El-zion TV, your gateway to the world of unparalleled entertainment, information, and inspiration. Impossibilities Does Not Exist!">
+        <meta property="og:image" content="img/newlogo.jpg">
+        <meta property="og:url" content="https://el-zionglobalnetworktv.com/">
+
+  
+    <!-- Favicon -->
+    <link href="img/newlogo.jpg" type="image/x-icon" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto:wght@500;700&display=swap" rel="stylesheet">  
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="atunews.css" rel="stylesheet">
+    <link href="honatu.css" rel="stylesheet">
+    <!-- <link href="portfolio.css" rel="stylesheet">
+
+
+	
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6508577b0f2b18434fd92af6/1hak9bfpf';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+<style>
+	main {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	}
+
+ .image-scroller1 {
+            white-space: nowrap;
+            animation: scrollImages 35s linear infinite; /* Adjust the duration as needed */
+        }
+
+        .image-scroller1 img {
+            max-width: 80%;
+            height: auto;
+            margin-right: 10px; /* Adjust spacing between images */
+            border-radius: 15px; /* Adjust the border-radius for curved edges */
+        }
+
+        @keyframes scrollImages {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-1000%); /* Adjust based on the number of images and margin */
+            }
+       /* Pause animation on hover */
+        .image-scroller1:hover {
+            animation-play-state: paused;
+	}
+	} 
+
+</style>
+</head>
+<body>
+
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+    </div>
+    <!-- Spinner End -->
+
+
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-primary text-white d-none d-lg-flex">
+        <div class="container py-2">
+            <div class="d-flex align-items-center">
+               <a href="index.html">
+                <h4 class="text-white fw-bold m-0" style="color: yellow;">El-Zion TV</h4> 
+             </a>
+                <div class="ms-auto d-flex align-items-center">
+                   <!--<small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>125 Ogui Road, Enugu Nigeria</small>-->
+                    <small class="ms-4"><i class="fa fa-envelope me-3"></i>info@elziontv.com</small>
+                    <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+2348063982060</small>
+                    <div id="note" class="text-light d-none d-xl-flex"><small>Impossibilities does not exist</small></div>
+                   <div class="ms-3 d-flex">
+                        <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href="https://www.facebook.com/profile.php?id=100094091733546&mibextid=9R9pXO"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href="https://x.com/Elziontv?t=tDzjvI0PvDPQAKFboZKWVw&s=09"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href="https://www.youtube.com/@El-zionglobalnetworktv"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+   <!-- Navbar Start -->
+	
+    <!--<div class="container-fluid bg-success sticky-top">
+        <div class="container">
+               <nav class="navbar navbar-expand-lg bg-dark navbar-light p-lg-3">-->
+	<div class="container-fluid bg-secondary">
+         <div class="container">
+                <nav class="navbar navbar-dark navbar-expand-lg py-0">
+                    <!--<a href="index.html" class="navbar-brand">
+                        </a>-->
+              <a href="index.html" class="navbar-brand">
+                <div class="logo">
+		<img src="img/newlogo.jpg" alt="El-zion TV Logo">
+		</div>
+	      </a>
+             
+                <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav">
+                        <a href="index.html" class="nav-item nav-link active">Home</a>
+                        <a href="about.html" class="nav-item nav-link">About</a>
+                         <a href="programs.html" class="nav-item nav-link">Programs</a>
+                         <a href="service.html" class="nav-item nav-link">Services</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">More</a>
+                            <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
+                                <a href="#team" class="dropdown-item">Our Team</a>
+                                <a href="exclusive.html" class="dropdown-item">Exclusives</a>
+                                <a href="news.html" class="dropdown-item">News Archive</a>
+                                <a href="advert.html" class="dropdown-item">Advertise with us</a>
+                                <a href="media.html" class="dropdown-item">Media</a>
+                          </div>
+                        </div>
+                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    </div>
+                    <div class="ms-auto d-none d-lg-block">
+                        <a href="#" class="btn rounded-pill py-2 px-3" style="background-color: red; color: white;"><b>Advertise With Us</b></a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Carousel Start -->
+    <div class="text-center font-weight-medium py-2" style="width: 170px; background-color: #FF0000; color: white"><b>News Headlines</b></div>
+  <marquee>
+	<h5><a style="background-color: white; color: red;">Bitcoin Prices surges. &nbsp;&nbsp;***&nbsp;&nbsp; Gov Peter Mbah Presents 2024 Budget to Enugu state House of Assembly. &nbsp;&nbsp;***&nbsp;&nbsp; Ex-President bags 5 years in jail for corruption  &nbsp;&nbsp;***&nbsp;&nbsp; CyberBill Africa Team visits Hon. Sam Atu in his residence. &nbsp;&nbsp;***&nbsp;&nbsp; Tinubu appoints new CBN Governor &nbsp;&nbsp;***&nbsp;&nbsp; Hon Atu hosts U-15 Sports Championship to help discover young talents in the constituency.&nbsp;&nbsp;***&nbsp;&nbsp; House of Assembly adhoc committe on Housing visits Enugu state governor in a bid to address housing issues in the state.</a></h5>
+   </marquee>
+</div>
+    
+    <div class="container-fluid px-0 mb-2">
+        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="w-100" src="img/tva.jpg" alt="Image" height="50%">>
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-start">
+                                <div class="col-lg-7 text-start">
+                                    <p class="fs-4 text-white animated slideInRight">Welcome to <strong>El-zion</strong>Global Network Television</p>
+                                    <h1 class="display-1 text-white mb-4 animated slideInRight">Explore our rich <strong>Programs and Services</strong>Across the World</h1>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="img/tvb.jpg" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-end">
+                                <div class="col-lg-7 text-end">
+                                    <p class="fs-4 text-white animated slideInLeft">Impossibilities does not <strong>Exist</strong></p>
+                                    <h1 class="display-1 text-white mb-5 animated slideInLeft">Connect with the World</h1>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+              <div class="carousel-item">
+                    <img class="w-100" src="img/tv1.jpeg" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-end">
+                                <div class="col-lg-7 text-end">
+                                    <p class="fs-4 text-white animated slideInLeft" style="color: white; background-color: #FF0000;">Advertise With Us</h1>
+                                    <h1 class="display-1 text-white mb-5 animated slideInLeft">Put your business and events on the global stage</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+	    <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+	    </button>
+         </div>
+       </div>
+    </div>
+   
+   <!-- Page Video Begin--
+ <h2 class="section-title bg-secondary text-start text-center pe-3" style="color: white;">Stream Shiloh 2023 Live on El-zion TV!</h2>                 
+<div class="video-container">
+  <img src="img/introkid.jpg" alt="Display Image" style="width: 100%; height: auto;">
+ <iframe width="560" height="315" id="videoModal" src="https://www.youtube.com/embed/I62c0gYtWao?si=ivv1lDO6fGAah6JQ" frameborder="0" allowfullscreen></iframe>
+</div> -->
+
+	<hr>
+	<main>
+<a class="btn rounded-pill py-3 px-3" href="https://el-zionglobalnetworktv.blogspot.com/?m=1" style="color: white; background-color: #FF0000; display: inline-block; margin: 0 auto;"><b>Visit our Blog for latest News</b></a>
+	</main>
+
+
+
+                        
+<!-- Page Video End --
+		
+                 <hr>
+	<main>
+		<div class="col-lg-3 col-md-6">
+                   <h4><a style="color: #26d48c;">Follow Us on Social Media Platforms</a></h4>
+                   <div class="d-flex pt-5">
+		       <a class="btn btn-square btn-light rounded-circle me-5 text-primary" href="https://www.facebook.com/profile.php?id=100094091733546&mibextid=9R9pXO"><i class="fab fa-facebook-f"></i></a>
+			<a class="btn btn-square btn-light rounded-circle me-5 text-primary" href="https://x.com/Elziontv?t=tDzjvI0PvDPQAKFboZKWVw&s=09"><i class="fab fa-twitter"></i></a>
+			<a class="btn btn-square btn-light rounded-circle me-5 text-primary" href="https://www.youtube.com/@El-zionglobalnetworktv"><i class="fab fa-youtube"></i></a>
+		    </div>
+		</div>
+	 </main>
+
+	
+<!-- Core Values start-->
+   
+<hr>
+<div class=" wow fadeInUp" data-wow-delay="0.1s">
+            <div class="team-item rounded overflow-hidden pb-4" style="margin-bottom: 5px;">
+                 <img class="img-fluid" src="img/corevalues.jpg" alt="icon" style="margin-bottom: 5px; width: 100%; height: 100%;">
+    <h5>El-zion Core Values</h5>
+                        <span class="text-primary">What we stand for</span>
+                   </div>   
+                </div>
+
+ 
+	
+<!--<div class=" wow fadeInUp" data-wow-delay="0.1s">
+     <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+        <img src="img/coreintro.jpg" alt="icon" style="width: 100%; height: 100%;">
+       
+           <div class="image-scroller1">
+            </div>
+           </div>-->
+
+	
+   <h2 class="section-title bg-secondary text-start text-center pe-5" style="color: white;">Our Core Values</h2>                 
+   <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
+       <div class="project-item mb-5">
+     <div class="position-relative">
+    <img src="img/core1.jpg" alt="Core 1">
+     </div>
+       </div>
+   
+	
+      <div class="project-item mb-5">
+     <div class="position-relative">
+   <img src="img/core2.jpg" alt="Core 2">
+     </div>
+      </div>
+	   
+        <div class="project-item mb-5">
+     <div class="position-relative">
+ <img src="img/core3.jpg" alt="Core 3">
+     </div>
+	</div>
+	   
+        <img src="img/core4.jpg" alt="Core 4">
+        <img src="img/core5.jpg" alt="Core 5">
+        <img src="img/core6.jpg" alt="Core 6">
+        <img src="img/core7.jpg" alt="Core 7">
+        <img src="img/core8.jpg" alt="Core 8">
+        <img src="img/core9.jpg" alt="Core 9">
+        <img src="img/core10.jpg" alt="Core 10">
+</div>
+	
+     <!-- Core Values start--
+   	
+<div class="container-xxl py-2 mb-1">
+ <div class="container">
+<div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 200px;">
+       </div>
+            <div class="row g-4">
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                        <img class="img-fluid mb-4" src="img/core1.jpg" alt="">
+                       
+                    </div>
+                  </div>
+                
+  <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                         <img class="img-fluid mb-4" src="img/core2.jpg" alt="">
+                        
+                    </div>
+                </div>
+
+    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                        <img class="img-fluid mb-4" src="img/core3.jpg" alt="">
+                        
+                    </div>
+                  </div>
+   <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                         <img class="img-fluid mb-4" src="img/core4.jpg" alt="">
+                        
+                    </div>
+                 </div>
+
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                         <img class="img-fluid mb-4" src="img/core5.jpg" alt="">
+                        
+                    </div>
+                  </div>
+      
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core6.jpg" alt="">
+                        
+                    </div>
+                </div>
+
+<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core7.jpg" alt="">
+                        
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core8.jpg" alt="">
+                        
+                    </div>
+                 </div>
+     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core9.jpg" alt="">
+                        
+                    </div>
+                  </div>
+
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core10.jpg" alt="">
+                        
+                    </div>
+                   </div>
+      
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/core11.jpg" alt="">
+                        
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+    <!-- Core Values End -->
+   
+	
+   <!--<div class="container-xxl py-1">
+          <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="feature-item border h-100 p-5">
+                   <a href="https://play.google.com/store/apps">
+                  <img class="img-fluid mb-1" src="img/playstore.png" alt="">
+		   </a>   
+		   <a href="https://apps.apple.com">
+                     <img class="img-fluid mb-1" src="img/applestore.png" alt="">
+		   </a>
+		    </div>
+		</div>
+	    </div>
+        </div>
+	<!-- Features End -->
+
+
+    <!-- About Start -->
+<h1 class="section-title bg-secondary text-start text-center pe-5" href="" style="color: white;">Welcome</h1>                 	
+    <div class="container-xxl about my-1">
+        <div class="container">
+            <div class="row g-0">
+                <div class="col-lg-6">
+                    <div class="h-100 d-flex align-items-center justify-content-center" style="min-height: 300px;">
+                        <button type="button" class="btn-play" data-bs-toggle="modal"
+                            data-src="vid/introvid.mp4" data-bs-target="#videoModal">
+                            <span></span>
+                        </button>
+                    </div>
+		</div>
+	  </div>
+	</div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Video Modal Start -->
+    <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content rounded-0">
+                <div class="modal-header">
+                   <h3 class="modal-title" id="exampleModalLabel" style="color: red;">Welcome to El-zion Network</h3>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                   <img src="img/introkid.jpg" alt="Display Image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+		   <!-- 16:9 aspect ratio -->
+                    <div class="ratio ratio-16x9">
+                        <iframe class="embed-responsive-item" src="vid/introvid.mp4" id="video" allowfullscreen allowscriptaccess="always"
+                            allow="autoplay"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Video Modal End -->
+	
+
+		
+<!-- Page Video Begin-->
+ <h2 class="section-title bg-secondary text-start text-center pe-3" style="color: white;">Stream Live!</h2>                 
+<div class="video-container">
+  <img src="img/introkid.jpg" alt="Display Image" style="width: 100%; height: auto;">
+ <iframe width="560" height="315" id="videoModal" src="https://www.youtube.com/embed/gCNeDWCI0vo?si=5TjHimMi67ATk-xS" frameborder="0" allowfullscreen></iframe>
+<img src="img/introkid.jpg" alt="Display Image" style="width: 100%; height: auto;">
+</div> 
+	
+<!-- Page Video End -->
+
+
+    <!-- Featured News Slider Start -->
+    <div class="container-fluid pt-5 mb-3">
+        <div class="container">
+            <div class="section-title">
+                <h4 class="m-0 text-uppercase font-weight-bold" style="background-color: white; color: red">News Headlines</h4>
+            </div>
+            <div class="owl-carousel news-carousel carousel-item-4 position-relative">
+                <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/pdapc.jpeg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: #26d48c; color: white"
+                                     href="">Politics</a>
+                            <a class="text-white" href=""><small>Sept 01, 2023</small></a>
+                        </div>
+                        <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Appeal Court affirms the victory of Hon Sam Atu...</a>
+                    <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a>
+                  </div>
+                </div>
+                <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/usspeaker.jpeg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: red; color: white"
+                                       href="">Judiciary</a>
+                            <a class="text-white" href=""><small>Aug 27, 2023</small></a>
+                        </div>
+                  <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Political news plays a crucial role...</a>
+                    <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a>  </div>
+                </div>
+
+		    <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/NLC.jpg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: red; color: white"
+                                       href="">Politics</a>
+                            <a class="text-white" href=""><small>Feb 13, 2023</small></a>
+                        </div>
+                        <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Peter Obi campaign's train lands in Enugu...</a>
+                        <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a></div>
+		    </div>
+		    
+                <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/elon.jpg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: #26d48c; color: white"
+                                         href="">Party</a>
+                            <a class="text-white" href=""><small>Aug 01, 2023</small></a>
+                        </div>
+                        <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Political news plays a crucial role...</a>
+                    <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a>     </div>
+                </div>
+                <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/onair.jpg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: red; color: white"
+                                       href="">Politics</a>
+                            <a class="text-white" href=""><small>Sept 01, 2023</small></a>
+                        </div>
+                        <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Political news plays a crucial role...</a>
+                        <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a>    </div>
+                </div>
+                <div class="position-relative overflow-hidden" style="height: 300px;">
+                    <img class="img-fluid h-100" src="img/camera.jpg" style="object-fit: cover;">
+                    <div class="overlay">
+                        <div class="mb-2">
+                            <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: #26d48c; color: white"
+                                           href="">Sports</a>
+                            <a class="text-white" href=""><small>Sept 10, 2023</small></a>
+                        </div>
+                        <a class="h5 m-0 text-white text-uppercase font-weight-semi-bold" href="">Sports news plays a crucial role...</a>
+                       <a href="" class="btn btn-secondary text-white px-3 py-2 rounded-pill">Read More</a>    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Featured News Slider End -->
+	
+	 <!-- News With Sidebar Start -->
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <!--<div class="row">
+                        <div class="col-12"> -->
+                            <div class="section-title">
+                                <h4 class="m-0 text-uppercase font-weight-bold" style="background-color: white; color: red">From Our Reporters Around the World</h4>
+                                </div>
+                        </div>
+			
+                        <div class="col-lg-6">
+                            <div class="position-relative mb-3">
+                                <img class="img-fluid w-100" src="img/pept.jpeg" style="object-fit: cover;">
+                                <div class="bg-white border border-top-0 p-4">
+                                    <div class="mb-2">
+                                        <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: #26d48c; color: white"
+                                          href="">Politics</a>
+                                        <a class="text-body" href=""><small>Oct 2, 2023</small></a>
+                                    </div>
+                                    <a class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Tribunal Cases across the country...</a>
+                                    <p class="m-0">Political news plays a crucial role in keeping citizens informed and engaged, 
+					    empowering them to participate in the democratic process
+                                        </p>
+                                </div>
+                                <div class="d-flex justify-content-between bg-white border border-top-0 p-4">
+                                    <div class="d-flex align-items-center">
+                                        <img class="rounded-circle mr-2" src="img/staffcaleb.jpg" width="25" height="25" alt="">
+                                        <small>Caleb Nworu</small>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <small class="ml-3"><i class="far fa-eye mr-2"></i>12345</small>
+                                        <small class="ml-3"><i class="far fa-comment mr-2"></i>123</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="position-relative mb-3">
+                                <img class="img-fluid w-100" src="img/CyberBillwithSam.png" style="object-fit: cover;">
+                                <div class="bg-white border border-top-0 p-4">
+                                    <div class="mb-2">
+                                        <a class="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2" style="background-color: red; color: white"
+                                        href="">Technology</a>
+                                        <a class="text-body" href=""><small>Jan 01, 2045</small></a>
+                                    </div>
+                                    <a class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Tech in Focus</a>
+                                    <p class="m-0">CyberBill Africa team engages Nigeria House of Representatives Member</p>
+                                </div>
+                                <div class="d-flex justify-content-between bg-white border border-top-0 p-4">
+                                    <div class="d-flex align-items-center">
+                                        <img class="rounded-circle mr-2" src="img/staffgrace.jpg" width="25" height="25" alt="">
+                                        <small>Grace Heavenly</small>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <small class="ml-3"><i class="far fa-eye mr-2"></i>157</small>
+                                        <small class="ml-3"><i class="far fa-comment mr-2"></i>34</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+	 <!-- News With Sidebar Start -->
+
+			    
+    <!-- Programs Start -->
+
+ <h2 class="section-title bg-secondary text-start text-center pe-5" style="color: white;">Our Programs</h2>                 
+    <div class="container-xxl pt-3">
+        <div class="container">
+            <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+      </div>
+	 <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
+       <div class="project-item mb-5">
+     <div class="position-relative">
+                        <img class="img-fluid" src="img/elzionkid.jpg" alt="">
+                        <div class="project-overlay">
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/elzionkid.jpg" data-lightbox="project"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <a class="d-block h5" href="">KIDDIES ZONE</a>
+                        <span>Kiddies Zone on El-zion Global Network TV is more than just cartoons; it's an educational platform designed to positively nurture the minds of your children, recognizing them as future leaders.</span>
+		    </div>
+                </div>
+                <div class="project-item mb-5">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="img/elzionbarrier.jpg" alt="">
+                        <div class="project-overlay">
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/elzionbarrier.jpg" data-lightbox="project"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <a class="d-block h5" href="">BREAKING GENDER BARRIERS</a>
+                        <span>El-zion Global Network TV's 'BREAKING GENDER BARRIERS' initiative aims to combat negative gender sensitivity by inspiring females to pursue their career aspirations and break the stereotypes</span>
+		    </div>
+                </div>
+                <div class="project-item mb-5">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="img/elzionsports.jpg" alt="">
+                        <div class="project-overlay">
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/elzionsports.jpg" data-lightbox="project"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <a class="d-block h5" href="">SUPER FOOTBALL</a>
+                        <span>Super Football is a globally unifying event with a massive fanbase, offering viewers the convenience of watching their favorite matches on various devices.</span>
+		    </div>
+                </div>
+                <div class="project-item mb-5">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="img/elzionexcel.jpg" alt="">
+                        <div class="project-overlay">
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/elzionexcel.jpg" data-lightbox="project"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <a class="d-block h5" href="">EXCELLENT GENERATION</a>
+                        <span>Excellent Generation, also known as 'Unstoppable Destinies,' aims to instill the values of excellence in society, encouraging individuals to prioritize positive orientation and uplift the standard of leadership, especially among politicians.</span>
+		    </div>
+                </div>
+
+		     <div class="project-item mb-5">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="img/elzionsports1.jpg" alt="">
+                        <div class="project-overlay">
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/elzionsports1.jpg" data-lightbox="project"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <a class="d-block h5" href="">SPREMIUM SPORTS</a>
+                        <span>El-zion Global Network TV believes that varieties are the spices of life, our limitless abilities is bringing El-zion Premium Sports on your screen.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <main>
+<a class="btn rounded-pill py-2 px-2" href="#" style="color: white; background-color: #FF0000; display: inline-block; margin: 0 auto;"><b>Explore More Programs</b></a>
+    </main>
+    <!-- Programs End -->
+
+
+   <!-- Service Start -->
+	
+<hr>
+  <div class="section-title bg-secondary text-start text-center pe-5" style="color: white;"><b>Our Services</b></h2>                 
+	</div>
+	 <div class="container-fluid services py-1 mb-2">
+            <div class="container">
+                <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                 <h4 class="display-5 mb-2" id="custom-heading">Global Broadcasting and Advertising Services We Offer</h4>
+		</div>
+	 <div class="row g-5 services-inner">
+                
+               		
+<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+    <div class="services-item services-item-news-broadcasting bg-light">
+        <div class="p-4 text-center services-content">
+            <div class="services-content-icon">
+                <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">News Broadcasting</a>
+	        <p class="mb-0">Providing accurate and timely news coverage to a global audience.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+    <div class="services-item services-item-documentaries bg-light">
+        <div class="p-4 text-center services-content">
+            <div class="services-content-icon">
+                 <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">Documentaries</a>
+                 <p class="mb-0">Creating and airing informative and engaging documentaries on various subjects, including culture, history, science, and current affairs.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+    <div class="services-item services-item-live-event-coverage bg-light">
+        <div class="p-4 text-center services-content">
+            <div class="services-content-icon">
+                <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">Live Event Coverage</a>
+                <p class="mb-0">Providing live coverage of major events, such as sporting events, concerts, and conferences.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+    <div class="services-item services-item-streaming-services bg-light">
+        <div class="p-4 text-center services-content">
+            <div class="services-content-icon">
+                <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">Streaming Services</a>
+                <p class="mb-0">Providing a variety of streaming services, including live TV, movies, TV shows, and music.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+    <div class="services-item services-item-sales-and-advertising bg-light">
+        <div class="p-4 text-center services-content">
+            <div class="services-content-icon">
+                <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">Sales and Advertising</a>
+                <p class="mb-0">Helping businesses reach their target audiences and achieve their marketing
+            </div>
+        </div>
+    </div>
+</div>
+		 
+	<div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s"> 
+			 <div class="services-item global-Perspective bg-light">
+                          <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button1">Global Perspective</a>
+			      </div>
+                            <p class="mb-0">Presenting content that offers a global perspective on issues, including international interviews, cross-cultural shows, and travel documentaries.</p>
+			    </div>
+                        </div>
+	             </div>
+		 
+		 
+		 <!-- <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+
+         <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                             <div class="services-content-icon">
+                                   <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button1">News Broadcasting</a>
+			    <p class="mb-0">Providing up-to-date and comprehensive news coverage on global events, politics, economics, and more.</p>
+			     </div>
+                            </div>
+			</div>
+		      </div>
+
+	    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s"> 
+		    
+		    <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                  <div class="services-content-icon">
+                                   <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button">Documentaries</a>
+			   <p class="mb-0">Creating and airing informative and engaging documentaries on various subjects, including culture, history, science, and current affairs.</p>
+			        </div>
+                            </div>
+                        </div>
+		   </div>
+                    
+		 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s"> 
+			 <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                 <div class="services-content-icon">
+                                    <a class="btn btn-secondary text-white px-3 py-2 rounded-pill">Live Event Coverage</a>
+				 <p class="mb-0">Broadcasting live coverage of major events, including sports events, award ceremonies, and cultural festivals.</p>
+				    </div>
+                            </div>
+                        </div>
+		    </div>
+                    
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">    
+			    <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                  <div class="services-content-icon">
+                                    <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button1">Streaming Services</a>
+			           <p class="mb-0">Providing online streaming services and apps to reach viewers on various devices, offering on-demand access to content.</p>
+                            </div>
+                        </div>
+			</div>
+		    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">    
+			    <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                             <div class="services-content-icon">
+                                     <a class="btn btn-secondary text-white px-3 py-2 rounded-pill custom-button1">Advertising and Sales</a>
+			     <p class="mb-0">Offering advertising and sponsorship opportunities to reach a global audience.</p>
+			        </div>
+                            </div>
+			</div>
+		    </div>
+                    
+			-->
+                      </div>
+	            </div>
+	          </div>
+	 <main>
+<a class="btn rounded-pill py-2 px-3" href="#" style="color: white; background-color: #FF0000; display: inline-block; margin: 0 auto;"><b>Explore More Services</b></a>
+    </main>
+   
+    <!-- Service End -->
+    
+    
+    <!-- Quote Start -->
+   
+ <hr class="container">
+ <h2 class="section-title bg-secondary text-start text-center pe-5" href="" style="color: white;">Advertisements</h2>                 
+ <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+
+	 <div class="bg-white text-center border border-top-0 p-3">
+                            <a href=""><img class="img-fluid" src="img/Mylogo.png" alt=""></a>
+                     <p>CyberBill Africa is a Tech company in Enugu Nigeria that provides IT Support, Cybersecurity awareness, consulting and training/certification  services to individuals and small businesses.</p>
+
+                     <a class="badge badge-primary text-uppercase font-weight-semi-bold p-3 mr-3" style="background-color: #26d48c; color: white"
+                         href="https://cyberbillafrica.github.io/portal">Visit CyberBill Africa &rarr;</a>
+	    </div>
+      </div>
+  <p class="fs-5 fw-medium text-primary">Want to Reach the World?</p>
+           
+		<main>
+<a class="btn rounded-pill py-3 px-2" href="#" style="color: white; background-color: #FF0000; display: inline-block; margin: 0 auto;"><b>Advertise with Us &rarr;</b></a>
+		</main>
+	 </div>
+	</div>
+    <!-- Quote Start -->
+
+
+
+    <!-- Testimonial Start -->
+    <hr class="container">
+     <h2 class="section-title bg-secondary text-start text-center pe-5" href="" style="color: white;">Testimonials</h2>                 
+        <div class="container">
+            <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                 <h3 class="display-6 mb-2" id="custom-heading">What our Viewers and Clients Say About Our Global Services!</h3>
+            </div>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+                    <img class="mb-4" src="img/LPpassport.png" alt="">
+                    <p class="mb-4">"I have been a dedicated viewer of this global television station for some time now, and it continues to impress me with its top-notch reporting and diverse programming. 
+			<b>El-zion Global Network Television</b> is my go-to source for staying informed about global events."</p>
+                    <h5><a style="color: #26d48c;">Ifeanyi Barth</a></h5>
+                    <span class="text-primary"><i>CEO, CyberBill Africa</i></span>
+                </div>
+                <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+                    <img class="mb-4" src="img/Ezy.png" alt="">
+                    <p class="mb-4">"The quality of journalism on this channel is unparalleled. They cover stories from every corner of the world with depth and accuracy. I trust them to provide me with the most reliable news especially global market analysis my niche"</p>
+			   <h5><a style="color: #26d48c;">Ezinne Stella</a></h5>
+                    <span class="text-primary"><i>Global Marketing Analyst</i></span>
+                </div>
+                <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+                    <img class="mb-4" src="img/testimonial-1.jpg" alt="">
+                    <p class="mb-4">"I appreciate the commitment to diversity and inclusion in El-Zion programming. It's refreshing to see stories and perspectives from all over the globe, making it a truly global television station."</p>   
+			<h5><a style="color: #26d48c;">William Smith</a></h5>
+                    <span class="text-primary"><i>International Event Planner</i></span>
+                </div>
+                <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+                    <img class="mb-4" src="img/Chi.png" alt="">
+                    <p class="mb-4">"The production values are outstanding! Whether it's documentaries, news reports, or entertainment shows, the visual and audio quality is always superb. It's a pleasure to watch."</p>
+			<h5><a style="color: #26d48c;">Maryann Anthonia</a></h5>
+                    <span class="text-primary"><i>Journalist</i></span>
+                </div>
+		    <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+                    <img class="mb-4" src="img/Mylogo.png" alt="">
+                    <p class="mb-4">"This television station has helped my brand grow and prosper through my exposure to it's global platform. It has helped me generating leads and close deals"</p>
+			    <h5><a style="color: #26d48c;">CyberBill Africa 🌍</a></h5>
+                    <span class="text-primary"><i>International Company</i></span>
+		 </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+    <!-- Testimonial End -->
+
+	
+<div class="container-xxl py-2 mb-1">
+ <div class="container">
+<div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 200px;">
+       </div>
+            <div class="row g-4">
+      <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                        <a href="https://play.google.com/store/apps">
+                  <img class="img-fluid mb-1" src="img/playstore.png" alt="" style="width: 50%; height: 50%;">
+                                       
+		   </a>        
+                    </div>
+                  </div>
+                
+  <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4 style="margin-bottom: 5px;">
+                         <a href="https://apps.apple.com">
+                     <img class="img-fluid mb-1" src="img/applestore.png" alt="" style="width: 50%; height: 50%;">
+			 </a>  
+                    </div>
+                   </div>
+	      </div>
+          </div>
+       </div>
+<!--<div class="container-xxl py-1">
+         <div class="row g-0 feature-row">
+                <div class="col-md-3 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="feature-item border h-100 p-2">
+                   <a href="https://play.google.com/store/apps">
+                  <img class="img-fluid mb-1" src="img/playstore.png" alt="">
+		   </a>   
+		   <a href="https://apps.apple.com">
+                     <img class="img-fluid mb-1" src="img/applestore.png" alt="">
+		   </a>
+		    </div>
+		</div>
+	    </div>
+        </div>
+</div>
+
+ <!-- Footer Start -->
+		
+    <div class="container-fluid bg-secondary footer mt-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-3">
+		<div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-4">Our Office</h4>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>125 Ogui Road, Enugu Nigeria</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+2348063982060</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@elziontv.com</p>
+                    <div class="d-flex pt-3">
+                        <a class="btn btn-square btn-light rounded-circle me-2" href="https://x.com/Elziontv?t=tDzjvI0PvDPQAKFboZKWVw&s=09"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-light rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100094091733546&mibextid=9R9pXO"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-light rounded-circle me-2" href="https://www.youtube.com/@El-zionglobalnetworktv"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-light rounded-circle me-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-4">Quick Links</h4>
+                    <a class="btn btn-link" href="about.html">About Us</a>
+                    <a class="btn btn-link" href="contact.html">Contact Us</a>
+                    <a class="btn btn-link" href="service.html">Our Services</a>
+                    <a class="btn btn-link" href="terms.html">Terms of Service</a>
+                    <a class="btn btn-link" href="advert.html">Advertise</a>
+               </div>
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-4">Business Hours</h4>
+                    <p class="mb-1">Monday - Friday</p>
+                    <h6 class="text-light">09:00 am - 07:00 pm</h6>
+                    <p class="mb-1">Saturday</p>
+                    <h6 class="text-light">09:00 am - 12:00 pm</h6>
+                    <p class="mb-1">Sunday</p>
+                    <h6 class="text-light">Closed</h6>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-4">Newsletter</h4>
+                    <p>Sign up to get Global updates from us</p>
+                    <div class="position-relative w-100">
+                       <form class="subscribe-form" action="/your-submit-endpoint" method="post">
+        <input type="email" class="subscribe-input" placeholder="Your Email Address" required>
+        <button type="submit" class="subscribe-button">Subscribe</button>
+		       </form>
+ <!--<input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <button type="button" class="btn btn-light py-2 position-absolute top-0 end-0 mt-2 me-2" style="color: white; background-color: #FF0000;">SignUp</button>-->
+		    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Copyright Start -->
+    <div class="container-fluid copyright py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    &copy; <a class="fw-medium" href="#" style="color: red;"><b>El-zion Global Network Television</b></a>, All Right Reserved.
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                    Designed By <a class="fw-medium" href="https://cyberbillafrica.github.io/portal" target=" blank; style="color: #26d48c;"><b>CyberBill Africa 🌍 </b></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-lg-square rounded-circle back-to-top" style=" color: white; background-color: #3DCF60;"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+
+ <script>
+
+   var form = document.getElementById('sheetdb-form');
+
+form.addEventListener("submit", e => {
+	
+e.preventDefault();
+	
+fetch(form.action, {
+	
+   method : "POST",
+	
+body: new FormData(document.getElementById("sheetdb-form")),
+
+}).then(
+
+response => response. .json()
+
+).then((html) => {
+
+// you can put any JS code here
+windows.open('new.html', '_blank');
+
+});
+
+});
+</script>
+
+	    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+    <script src="atunews.js"></script>
+    <script src="honatu.js"></script>
+    <script src="portfolio.js"></script>
+    <script src="Google Sheet.js"></script>
+
+
+
+</body>
+
+</html>
