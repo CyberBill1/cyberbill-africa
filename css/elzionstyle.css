@@ -1,13 +1,4 @@
-body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(to right, #2c3e50, #bdc3c7);
-            color: #fff;
-            text-align: center;
-        }
-
-        .courses-container {
+     .courses-container {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
