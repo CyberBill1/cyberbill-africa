@@ -23,21 +23,23 @@
         .course-icon {
             font-size: 50px;
             margin-bottom: 15px;
+	    position: center;
+	    justify-content: center;
         }
 
         .course-title {
-            font-size: 1.2em;
+            font-size: 2em;
             margin-bottom: 10px;
 	    font-weight: bold;
-            color: #26d48c;
+            color: teal;
         }
 
         .course-description {
-            font-size: 1em;
+            font-size: 1.2em;
         }
 
         .glow-on-hover {
-            animation: glow 1.5s infinite;
+            animation: glow 2s infinite;
         }
 
         @keyframes glow {
